@@ -4,7 +4,6 @@
   {
    "name": "Stocks",
    "children": [
-    {
       {"name": "Total Stock Market Fund", "size": 3938},
       {"name": "Wellington Fund", "size": 3812},
       {"name": "International Stock market fund", "size": 6714}
