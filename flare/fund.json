@@ -4,12 +4,12 @@
    "name": "Stocks",
    "children": [
       {"name": "Total Stock Market Fund", "size": 500},
-     "name": "Size",
+    {"name": "Size",
     "children": [
     {"name": "Large cap", "size": 25},
     {"name": "Mid cap", "size": 35},
     {"name": "small cap", "size": 40}
-     ]
+     ]},
       {"name": "Wellington Fund", "size": 400},
       {"name": "Index 500 fund", "size": 1300},
       {"name": "International Stock market fund", "size": 500}
