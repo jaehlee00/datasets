@@ -32,17 +32,17 @@
     { 
      "name": "Bonds",
      "children": [
-      {"name": "Total Bond market fund"},
-      {"name": "Wellington Fund"},
-      {"name": "Wellsley Fund"},
-      {"name": "International Bond market fund"}
+      {"name": "Total Bond market fund","size":10},
+      {"name": "Wellington Fund","size":30},
+      {"name": "Wellsley Fund","size":15},
+      {"name": "International Bond market fund","size":45}
      ]
     },
     {
      "name": "Short term Reserves",
      "children": [
-      {"name": "Prime money market"},
-      {"name": "Federal Prime money market"}
+      {"name": "Prime money market", "size":50},
+      {"name": "Federal Prime money market", "size":50}
      ]
     }
    ]
