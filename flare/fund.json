@@ -3,25 +3,25 @@
  "children": [{
    "name": "Stocks",
    "children": [
-      {"name": "Total Stock Market Fund", "size": 500,
+      {"name": "Total Stock Market Fund",
     "children": [ 
     {"name": "Large cap", "size": 1000},
     {"name": "Mid cap", "size": 800}, 
     {"name": "small cap", "size": 1300}
      ]},
-      {"name": "Wellington Fund", "size": 400,
+      {"name": "Wellington Fund", 
       "children": [ 
     {"name": "Large cap", "size": 800},
     {"name": "Mid cap", "size": 1000},
     {"name": "small cap", "size": 1300}
        ]},
-      {"name": "Index 500 fund", "size": 1300,
+      {"name": "Index 500 fund", 
       "children": [ 
     {"name": "Large cap", "size": 1000},
     {"name": "Mid cap", "size": 1300},
     {"name": "small cap", "size": 800}
       ]},
-      {"name": "International Stock market fund", "size": 500,
+      {"name": "International Stock market fund", 
       "children": [ 
     {"name": "Large cap", "size": 1000},
     {"name": "Mid cap", "size": 1000},
