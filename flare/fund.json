@@ -4,7 +4,8 @@
    "name": "Stocks",
    "children": [
       {"name": "Total Stock Market Fund", "size": 500},
-     "children": [
+     "name": "Size",
+    "children": [
     {"name": "Large cap", "size": 25},
     {"name": "Mid cap", "size": 35},
     {"name": "small cap", "size": 40}
