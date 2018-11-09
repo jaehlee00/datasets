@@ -5,6 +5,7 @@
    "children": [
       {"name": "Total Stock Market Fund", "size": 500},
       {"name": "Wellington Fund", "size": 500},
+      {"name": "Index 500 fund", "size": 1300},
       {"name": "International Stock market fund", "size": 500}
      ]}
     ,
@@ -12,7 +13,8 @@
      "name": "Bonds",
      "children": [
       {"name": "Total Bond market fund", "size": 3534},
-      {"name": "Wellington", "size": 5731},
+      {"name": "Wellington Fund", "size": 5731},
+      {"name": "Wellsley Fund", "size": 3500},
       {"name": "International Bond market fund", "size": 7840}
      ]
     },
