@@ -23,9 +23,9 @@
       ]},
       {"name": "International Stock market fund", "size": 500,
       "children": [ 
-    {"name": "Large cap"},
-    {"name": "Mid cap"},
-    {"name": "small cap"}
+    {"name": "Large cap", "size": 1000},
+    {"name": "Mid cap", "size": 1000},
+    {"name": "small cap", "size": 1000}
       ]}
      ]}
     ,
