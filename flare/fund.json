@@ -6,7 +6,7 @@
       {"name": "Total Stock Market Fund", "size": 500,
     "children": [ 
     {"name": "Large cap", "size": 1000},
-    {"name": "Mid cap", "size": 3400},
+    {"name": "Mid cap", "size": 3400}, 
     {"name": "small cap", "size": 1300}
      ]},
       {"name": "Wellington Fund", "size": 400,
