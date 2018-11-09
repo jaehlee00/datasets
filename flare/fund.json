@@ -41,8 +41,8 @@
     {
      "name": "Short term Reserves",
      "children": [
-      {"name": "Prime money market", "size": 7074},
-      {"name": "Federal Prime money market", "size": 5731}
+      {"name": "Prime money market"},
+      {"name": "Federal Prime money market"}
      ]
     }
    ]
